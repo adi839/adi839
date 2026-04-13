@@ -10,29 +10,19 @@
 
 - 🇷🇴 Sunt un tânăr programator din **România**.
 - 🎂 Am **14 ani** și sunt pasionat de tehnologie.
-- 🚀 **Vibecoding Enthusiast**: Îmi place să folosesc AI-ul pentru a construi proiecte rapid și eficient.
-- 🛠️ Lucrez în principal în **VS Code** și învăț constant Python, C++ și Web Dev.
+- 🚀 **Vibecoding Enthusiast**: Îmi place să construiesc proiecte rapid folosind puterea **AI-ului**.
+- 🛠️ Învăț constant Python, C++ și tehnologii web.
 
 ---
 
-### 🤖 AI & Vibecoding Tools
+### 🛠️ Tehnologii și Unelte
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="chatgpt" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="copilot" />
-  <img src="https://img.shields.io/badge/AI%20Powered-Coding-blueviolet?style=for-the-badge" alt="aipowered" />
-</p>
-
----
-
-### 🛠️ Tech Stack (Limbaje)
-
-<p align="left">
+  <img src="https://img.shields.io/badge/Vibecoding-AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="vibecoding" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
 </p>
 
 ---
@@ -48,9 +38,9 @@
 
 ### 🤝 Contact
 
-- 📫 Mă poți contacta prin Issues aici pe GitHub dacă vrei să colaborăm!
+- 📫 Dacă vrei să discutăm despre AI sau proiecte, deschide un Issue!
 
 ---
 <p align="center">
-  <i>"Vibe-ul contează, AI-ul livrează."</i>
+  <i>"Don't just code, vibe with the AI."</i>
 </p>
