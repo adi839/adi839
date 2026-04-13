@@ -1,38 +1,46 @@
-# Hi there, I'm [Your Name]! 👋 🇷🇴
+# Salutare, sunt Gabi! 👋
 
-### 🚀 About Me
-- 👨‍💻 I'm a **14-year-old** developer from **Romania**.
-- 🐍 Currently focused on mastering **Python** and building cool things for the web.
-- 🏗️ Learning the ropes of **C++** for logic and performance.
-- ⚡ Fun fact: I spend most of my time in **VS Code** (the best vibe for coding! 💻).
-
----
-
-### 🛠️ My Tech Stack
-I'm currently building projects with:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_UL_TAU&label=Vizite%20Profil&color=0e75b6&style=flat" alt="vizite" />
 </p>
 
 ---
 
-### 📫 Let's Connect
-- 🔭 I’m currently working on: **Improving my HTML/CSS design skills.**
-- 🌱 I’m currently learning: **Advanced Python & C++ algorithms.**
-- 💬 Ask me about: **Python or why VS Code is top tier.**
+### 👨‍💻 Despre mine
+
+- 🇷🇴 Sunt un tânăr programator din **România**.
+- 🎂 Am **14 ani** și sunt pasionat de tehnologie.
+- 🚀 Învăț constant și îmi place să creez chestii cool pe web și scripturi în Python.
+- 🛠️ Lucrez în principal în **VS Code**.
+
+---
+
+### 🛠️ Cu ce lucrez (Tech Stack)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
+</p>
+
+---
+
+### 📊 Statistici GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_UL_TAU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_UL_TAU&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Contact
+
+- 📫 Mă poți contacta prin Issues aici pe GitHub dacă ai întrebări despre proiectele mele!
 
 ---
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"Codul bun este propria sa documentație."</i>
 </p>
