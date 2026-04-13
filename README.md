@@ -45,8 +45,8 @@ I leverage the power of AI to build, debug, and iterate faster. My go-to models 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=adi839&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi839&layout=compact&theme=dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=adi839&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi839&layout=compact&theme=transparent" />
 </p>
 
 ---
@@ -57,5 +57,5 @@ I leverage the power of AI to build, debug, and iterate faster. My go-to models 
 
 ---
 <p align="center">
-  <i>"Building the future, one prompt at a time."</i>
+  <i>"Code is like humor. If you have to explain it, it’s bad."</i>
 </p>
