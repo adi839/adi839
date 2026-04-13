@@ -1,7 +1,7 @@
 # Salutare, sunt Gabi! 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_UL_TAU&label=Vizite%20Profil&color=0e75b6&style=flat" alt="vizite" />
+  <img src="https://komarev.com/ghpvc/?username=adi839&label=Vizite%20Profil&color=0e75b6&style=flat" alt="vizite" />
 </p>
 
 ---
@@ -30,8 +30,8 @@
 ### 📊 Statistici GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_UL_TAU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_UL_TAU&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adi839&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi839&layout=compact&theme=tokyonight" />
 </p>
 
 ---
