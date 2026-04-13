@@ -10,17 +10,15 @@
 
 - 🇷🇴 I am a young developer from **Romania**.
 - 🎂 I am **14 years old**.
-- 🚀 **Vibecoding Enthusiast**: I build projects by collaborating with advanced AI models.
-- 🛠️ Currently mastering **Python**, **C++**, and **Web Technologies**.
+- 🚀 **Vibecoding Enthusiast**: Building the future by collaborating with AI.
+- 🛠️ Currently mastering **Python**, **C++**, and **Web Tech**.
 
 ---
 
 ### 🤖 AI Stack & Vibecoding
 
-I leverage the power of AI to build, debug, and iterate faster. My go-to models are:
-- **Gemini** (Google)
-- **Claude Opus** (Anthropic)
-- **Antigravity**
+I leverage advanced AI models to iterate fast and build smart.
+- **Gemini** | **Claude Opus** | **Antigravity**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Vibecoding-AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="vibecoding" />
@@ -30,24 +28,22 @@ I leverage the power of AI to build, debug, and iterate faster. My go-to models 
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ My Tech Universe
 
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" />
-  <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
-</p>
+| Language / Tool | Level | What I do with it |
+| :--- | :--- | :--- |
+| **Python** | Intermediate | Automation & AI Scripting |
+| **C++** | Learning | Logic & Performance |
+| **HTML/CSS** | Advanced | Modern UI/UX Design |
+| **VS Code** | Main Editor | Vibecoding & Debugging |
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 What I'm working on
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=adi839&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi839&layout=compact&theme=transparent" />
-</p>
+- 🐍 Advanced Python automation tools.
+- 🌐 Building a personalized portfolio site.
+- 🤖 Exploring new "Antigravity" workflows.
 
 ---
 
